@@ -65,8 +65,6 @@
   <ItemGroup>
     <Compile Include="Lock\LockTester.cs" />
     <Compile Include="Lock\LockUser.cs" />
-    <Compile Include="Lock\OrderMngMock.cs" />
-    <Compile Include="OrdersTestCache.cs" />
     <Compile Include="TestProgram.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
