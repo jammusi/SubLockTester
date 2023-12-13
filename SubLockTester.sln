@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubLockTester", "SubLockTester\SubLockTester.csproj", "{63E3248D-4CF1-49B2-B547-39ADB26240DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63E3248D-4CF1-49B2-B547-39ADB26240DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63E3248D-4CF1-49B2-B547-39ADB26240DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63E3248D-4CF1-49B2-B547-39ADB26240DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63E3248D-4CF1-49B2-B547-39ADB26240DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BC02462-E26D-458C-891F-0AD8B0F9F096}
+	EndGlobalSection
+EndGlobal
